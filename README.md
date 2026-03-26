@@ -21,6 +21,8 @@ A laboratory assignment on Quantum Fourier Transform developed as both a written
 * Explored the gate-level structure of the transform, including a decomposition of the controlled phase shift into elementary operations
 * Tools: Python, PennyLane, NumPy, Matplotlib, Jupyter Notebook
 
+<img width="1689" height="389" alt="image" src="https://github.com/user-attachments/assets/441646fe-75f0-4dba-86a5-2144bb20ce8c" />
+
 ---
 
 ### [OpenGL Showcase](https://github.com/rChimisso/opengl-showcase)
@@ -35,6 +37,8 @@ A graphics project focused on real-time rendering techniques in OpenGL. The scen
 * Built a lighting setup with multiple point lights, cubemap shadow mapping, normal mapping, a skybox, and a Phong lighting system
 * Explored how rendering choices affect realism, scene readability, and technical complexity
 * Tools: C++, OpenGL, GLSL
+
+<img width="1908" height="1072" alt="image" src="https://github.com/user-attachments/assets/8b950a1c-7cb7-47a7-8d8f-2256aa20ccc6" />
 
 ---
 
@@ -65,6 +69,8 @@ A project for the Scientific Computing course that compares naive and fast DCT-I
 * Built a small application for JPEG-like compression of grayscale bitmap images
 * Included a report with results and analysis, automated code checks, generated documentation, and release builds for Linux and Windows
 * Tools: Python, SciPy, Sphinx, pytest
+
+<img width="1493" height="309" alt="image" src="https://github.com/user-attachments/assets/e1c51473-b749-4a64-96a6-5398fd8e8cb4" />
 
 ---
 
