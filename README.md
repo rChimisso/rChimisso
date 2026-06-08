@@ -118,3 +118,5 @@ A selection of additional projects completed during my studies.
 ## Notes
 
 Most of the repositories collected here were developed in academic contexts, but they also reflect broader interests that continue to shape my work, especially in quantum computing, theoretical computer science, and software design.
+
+For my personal projects, Minecraft mods, and other activities, check out my personal profile: [@CrystalSpider](https://github.com/Crystal-Spider).
