@@ -25,6 +25,25 @@ A laboratory assignment on Quantum Fourier Transform developed as both a written
 
 ---
 
+### [Game of Life: Tribes](https://github.com/rChimisso/game-of-life-tribes)
+
+**Cellular Automata / GPU Computing**
+
+A [browser-based WebGPU playground](https://rchimisso.github.io/game-of-life-tribes/) for designing and exploring multi-state cellular automata. Starting from Conway’s Game of Life, the project generalizes cells into named tribes and introduces a composable rule system for modelling inheritance, competition, state transitions, and other forms of local interaction. It combines simulation-engine design with interactive visualization, reproducible analysis, benchmarking, and extensive documentation.
+
+**Highlights**
+
+* Designed an ordered rule system that can inspect neighbouring tribes, compare population groups, compose conditions, and produce fixed, inherited, majority-based, minority-based, or combined states
+* Built a GPU-accelerated simulation and rendering engine using WGSL compute shaders, WebGPU, an `OffscreenCanvas`, and background workers to keep the interface responsive
+* Developed twelve configurable presets covering classic Life-like systems, cyclic competition, cultural diffusion, epidemics, wildfire propagation, color mixing, and slime-mold-like growth
+* Added live population metrics, recorded history, snapshots, step-back navigation, and exports to save files, numerical data, PNG frames, and MP4 video
+* Conducted reproducible density-sweep studies of epidemic and wildfire dynamics, alongside performance benchmarks across grid sizes, cell-packing formats, and recording configurations
+* Tools: TypeScript, Angular, WebGPU, WGSL, Web Workers, OPFS
+
+<img width="1908" alt="Game of Life: Tribes rule editor and simulation" src="https://raw.githubusercontent.com/rChimisso/game-of-life-tribes/main/readme/presets.png" />
+
+---
+
 ### [OpenGL Showcase](https://github.com/rChimisso/opengl-showcase)
 
 **Computer Graphics**
