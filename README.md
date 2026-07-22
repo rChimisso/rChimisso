@@ -38,6 +38,7 @@ A [browser-based WebGPU playground](https://rchimisso.github.io/game-of-life-tri
 * Developed twelve configurable presets covering classic Life-like systems, cyclic competition, cultural diffusion, epidemics, wildfire propagation, color mixing, and slime-mold-like growth
 * Added live population metrics, recorded history, snapshots, step-back navigation, and exports to save files, numerical data, PNG frames, and MP4 video
 * Conducted reproducible density-sweep studies of epidemic and wildfire dynamics, alongside performance benchmarks across grid sizes, cell-packing formats, and recording configurations
+* Created comprehensive [live documentation](https://rchimisso.github.io/game-of-life-tribes/wiki) with user-facing guides, developer-focused technical references, reproducible benchmark results, and detailed simulation analyses
 * Tools: TypeScript, Angular, WebGPU, WGSL, Web Workers, OPFS
 
 <img width="1908" alt="Game of Life: Tribes rule editor and simulation" src="https://raw.githubusercontent.com/rChimisso/game-of-life-tribes/main/readme/presets.png" />
