@@ -127,12 +127,13 @@ An early (high school age) project built in Processing to explore Deep Q-Learnin
 A selection of additional projects completed during my studies.
 
 * **[SPARK: Synthetic Probes for Assessing Reasoning on Knowledge-graphs](https://github.com/rChimisso/SPARK)** − Master’s AI project on evaluating multi-hop question answering over knowledge graphs, comparing hop length, prompting strategies, graph variants, and efficiency metrics across different language models.
-* **[MatIter](https://github.com/rChimisso/mcs-prog-1)** − Scientific computing project providing iterative solvers for symmetric positive definite systems, with comparisons among Jacobi, Gauss-Seidel, Gradient Descent, and Conjugate Gradient methods.
-* **[Bachelor’s Thesis](https://github.com/rChimisso/computer-science-bachelor-thesis)** — Thesis materials for my bachelor’s work on exploring and comparing deep learning architectures for predicting brain responses to realistic images, with an accompanying arXiv publication.
-* **[2WSI-RL](https://github.com/rChimisso/2WSI-RL)** − Reinforcement learning study on traffic-light intersection management, built around simulation, experimentation, and analysis of RL approaches in a control problem.
-* **[E1P-Lisp](https://github.com/rChimisso/E1P-Lisp)** − Lisp library for parsing strings into URIs, developed as a structured exercise in language design, parsing logic, and modular implementation.
-* **[Che Fico!](https://github.com/rChimisso/che-fico)** − Android application developed to identify plants, save their locations, and set reminders, combining mobile development with a practical user-facing workflow.
-* **[SD REST](https://github.com/rChimisso/sd-rest)** − Distributed systems project for a banking-style full-stack application, combining a Java/Spring backend with an Angular/TypeScript frontend and extensive code documentation.
+* **[MatIter](https://github.com/rChimisso/mcs-prog-1)** - Scientific computing project providing iterative solvers for symmetric positive definite systems, with comparisons among Jacobi, Gauss-Seidel, Gradient Descent, and Conjugate Gradient methods.
+* **[Bachelor’s Thesis](https://github.com/rChimisso/computer-science-bachelor-thesis)** - Thesis materials for my bachelor’s work on exploring and comparing deep learning architectures for predicting brain responses to realistic images, with an accompanying arXiv publication.
+* **[Master's Thesis](https://github.com/rChimisso/computer-science-master-thesis)** - Thesis materials for my master’s work on the comparison and analysis of classical and quantum reservoir computing.
+* **[2WSI-RL](https://github.com/rChimisso/2WSI-RL)** - Reinforcement learning study on traffic-light intersection management, built around simulation, experimentation, and analysis of RL approaches in a control problem.
+* **[E1P-Lisp](https://github.com/rChimisso/E1P-Lisp)** - Lisp library for parsing strings into URIs, developed as a structured exercise in language design, parsing logic, and modular implementation.
+* **[Che Fico!](https://github.com/rChimisso/che-fico)** - Android application developed to identify plants, save their locations, and set reminders, combining mobile development with a practical user-facing workflow.
+* **[SD REST](https://github.com/rChimisso/sd-rest)** - Distributed systems project for a banking-style full-stack application, combining a Java/Spring backend with an Angular/TypeScript frontend and extensive code documentation.
 
 
 ## Notes
