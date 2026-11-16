@@ -1,6 +1,6 @@
 # Academic Showcase
 
-I am a Computer Science master's student at the University of Milano-Bicocca, with interests in quantum computing, theoretical computer science, and the design of clean, well-structured, and elegant software.
+I hold a Master's degree in Computer Science from the University of Milano-Bicocca, awarded with highest honors (110/110 cum laude). My main interests lie in quantum computing, theoretical computer science, and the design of clean, well-structured, and elegant software.
 
 This page collects a curated overview of my academic projects: selected work that best represents my interests and approach, followed by a broader list of additional university projects.
 
